@@ -2,7 +2,6 @@
     "name": "digidoc1010/fusioncharts",
     "description": "Composer package to make FusionCharts class available to Drupal 8/9",
     "type": "library",
-    "license": "GPU",
     "authors": [
         {
             "name": "Dan Roach",
