@@ -1,6 +1,8 @@
 <?php
 
-    class FusionCharts {
+	namespace digidoc1010\fusioncharts;
+	
+	class FusionCharts {
         
         private $eventOptions = array();
         private $constructorOptions = array();
@@ -222,4 +224,4 @@
             return $this->stringData;
         }
     }
-?>
+
