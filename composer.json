@@ -1,0 +1,17 @@
+{
+	"name": "digidoc1010/fusioncharts",
+	"description": "FusionCharts PHP Wrapper",
+	"type": "digidoc1010-extension",
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Dan Roach",
+			"email": "digidoc1010@mac.com"
+		}
+	],	
+	"require": {},
+	"autoload": {
+		"psr-4": {"digidoc1010\\fusioncharts\\": "/src"}
+	}
+	
+}
